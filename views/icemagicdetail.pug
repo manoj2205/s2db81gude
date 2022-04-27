@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  h1(id="titlestyle")= title
+
+  if (toShow == null)
+    h2 No instance to delete
+  else
+    - let icemagicid = toShow._id
+    - let icemagicItemname = toShow.Itemname
+    - let icemagicQuantity = toShow.Quantity
+    - let icemagicprice = toShow.price
+
+    div
+      div.row
+        div(class='icemagicAttr mr-3') icemagic ID is:
+        div(class='variety stylesheetnew') #{icemagicid}
+      div.row
+        div(class='icemagicAttr mr-3') icemagic Itemname is:
+        div(class="variety") #{icemagicItemname}
+      div.row
+        div(class='icemagicAttr mr-3') icemagic Quantity is:
+        div(class="variety") #{icemagicQuantity}
+      div.row
+        div(class='icemagicAttr mr-3') icemagic price is:
+        div(class="variety") #{icemagicprice}
+    
