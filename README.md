@@ -1,7 +1,7 @@
-# -s2wb53dharamkarramesh
+# s2db61peddireddy
 
----
-read me file is added
-[Heroku link](https://s2wb53dharamkarramesh.herokuapp.com/)
+I am a Thunder boy.
 
-my class rosted attributes Item name (string), Quantity (number), and price(string)
+Heroku link : https://s2db61peddireddy.herokuapp.com/
+
+my class toasted attributes Item name (string), Quantity (number), and price(string)
