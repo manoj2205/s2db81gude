@@ -1,7 +1,7 @@
-# s2db61peddireddy
+# s2db81gude
 
-I am a Thunder boy.
+I am stonner.
 
-Heroku link : https://s2db61peddireddy.herokuapp.com/
+Heroku link : https://s2db81gude.herokuapp.com/
 
-my class toasted attributes Item name (string), Quantity (number), and price(string)
+my class icemagic attributes Item name (string), Quantity (number), and price(string)
